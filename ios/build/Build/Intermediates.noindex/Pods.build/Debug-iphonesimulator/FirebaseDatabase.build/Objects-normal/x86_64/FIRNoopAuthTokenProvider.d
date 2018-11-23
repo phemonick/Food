@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Login/FIRNoopAuthTokenProvider.m \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Login/FIRNoopAuthTokenProvider.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Login/FAuthTokenProvider.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FTypedefs.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FTypedefs_Private.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FIRDatabaseQuery_Private.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepo.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoInfo.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FPersistentConnection.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Realtime/FConnection.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Realtime/FWebSocketConnection.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/third_party/SocketRocket/FSRWebSocket.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FUtilities.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FParsedUrl.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FPath.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDataEventType.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/Tuples/FTupleUserCallback.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FQueryParams.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoManager.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Api/FIRDatabaseConfig.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabaseQuery.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDataSnapshot.h

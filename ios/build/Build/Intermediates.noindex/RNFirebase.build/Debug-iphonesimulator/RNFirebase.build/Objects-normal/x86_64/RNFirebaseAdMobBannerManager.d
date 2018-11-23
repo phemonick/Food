@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/node_modules/react-native-firebase/ios/RNFirebase/admob/RNFirebaseAdMobBannerManager.m \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/node_modules/react-native-firebase/ios/RNFirebase/admob/RNFirebaseAdMobBannerManager.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/node_modules/react-native-firebase/ios/RNFirebase/admob/BannerComponent.h \
+  ../../../ios/Pods/Headers/Public/Google-Mobile-Ads-SDK/GoogleMobileAds/GADBannerView.h \
+  ../../../ios/Pods/Headers/Public/Google-Mobile-Ads-SDK/GoogleMobileAds/GADAdSize.h \
+  ../../../ios/Pods/Headers/Public/Google-Mobile-Ads-SDK/GoogleMobileAds/GoogleMobileAdsDefines.h \
+  ../../../ios/Pods/Headers/Public/Google-Mobile-Ads-SDK/GoogleMobileAds/GADAdSizeDelegate.h \
+  ../../../ios/Pods/Headers/Public/Google-Mobile-Ads-SDK/GoogleMobileAds/GADBannerViewDelegate.h \
+  ../../../ios/Pods/Headers/Public/Google-Mobile-Ads-SDK/GoogleMobileAds/GADRequestError.h \
+  ../../../ios/Pods/Headers/Public/Google-Mobile-Ads-SDK/GoogleMobileAds/GADInAppPurchaseDelegate.h \
+  ../../../ios/Pods/Headers/Public/Google-Mobile-Ads-SDK/GoogleMobileAds/GADRequest.h \
+  ../../../ios/Pods/Headers/Public/Google-Mobile-Ads-SDK/GoogleMobileAds/GADAdNetworkExtras.h

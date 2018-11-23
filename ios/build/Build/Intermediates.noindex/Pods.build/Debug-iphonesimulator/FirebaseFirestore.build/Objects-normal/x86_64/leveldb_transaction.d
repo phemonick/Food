@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/core/src/firebase/firestore/local/leveldb_transaction.cc \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/core/src/firebase/firestore/local/leveldb_transaction.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/third_party/abseil-cpp/absl/strings/string_view.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/third_party/abseil-cpp/absl/base/config.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/third_party/abseil-cpp/absl/base/policy_checks.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/third_party/abseil-cpp/absl/base/internal/throw_delegate.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/third_party/abseil-cpp/absl/base/macros.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/third_party/abseil-cpp/absl/base/port.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/third_party/abseil-cpp/absl/base/attributes.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/third_party/abseil-cpp/absl/base/optimization.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Public/leveldb-library/leveldb/db.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Public/leveldb-library/leveldb/iterator.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Public/leveldb-library/leveldb/slice.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Public/leveldb-library/leveldb/status.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Public/leveldb-library/leveldb/options.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/core/src/firebase/firestore/local/leveldb_key.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/core/src/firebase/firestore/model/document_key.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/core/src/firebase/firestore/model/resource_path.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/core/src/firebase/firestore/model/base_path.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/core/src/firebase/firestore/util/hard_assert.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/core/src/firebase/firestore/util/string_format.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/core/src/firebase/firestore/util/string_apple.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/core/src/firebase/firestore/util/type_traits.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/third_party/abseil-cpp/absl/strings/str_cat.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/third_party/abseil-cpp/absl/strings/numbers.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/third_party/abseil-cpp/absl/numeric/int128.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/third_party/abseil-cpp/absl/numeric/int128_have_intrinsic.inc \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/core/src/firebase/firestore/util/hashing.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/core/src/firebase/firestore/util/comparison.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/core/src/firebase/firestore/model/types.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/core/src/firebase/firestore/util/log.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/third_party/abseil-cpp/absl/memory/memory.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseFirestore/Firestore/third_party/abseil-cpp/absl/meta/type_traits.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Public/leveldb-library/leveldb/write_batch.h

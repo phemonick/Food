@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/gRPC-ProtoRPC/src/objective-c/ProtoRPC/ProtoRPC.m \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Target\ Support\ Files/gRPC-ProtoRPC/gRPC-ProtoRPC-prefix.pch \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/gRPC-ProtoRPC/src/objective-c/ProtoRPC/ProtoRPC.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Public/gRPC/GRPCClient/GRPCCall.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Public/gRPC-RxLibrary/RxLibrary/GRXWriter.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Public/gRPC-RxLibrary/RxLibrary/GRXWriteable.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/gRPC-ProtoRPC/src/objective-c/ProtoRPC/ProtoMethod.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/GPBProtocolBuffers.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/GPBBootstrap.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/GPBArray.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/GPBRuntimeTypes.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/GPBCodedInputStream.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/GPBCodedOutputStream.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/GPBWireFormat.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/GPBDescriptor.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/GPBDictionary.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/GPBExtensionRegistry.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/GPBMessage.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/GPBRootObject.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/GPBUnknownField.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/GPBUnknownFieldSet.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/GPBUtilities.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/GPBWellKnownTypes.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/Any.pbobjc.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/Duration.pbobjc.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/Timestamp.pbobjc.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/Api.pbobjc.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/Empty.pbobjc.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/FieldMask.pbobjc.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/SourceContext.pbobjc.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/Struct.pbobjc.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/Type.pbobjc.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/Protobuf/Wrappers.pbobjc.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Public/gRPC-RxLibrary/RxLibrary/GRXWriter+Transformations.h

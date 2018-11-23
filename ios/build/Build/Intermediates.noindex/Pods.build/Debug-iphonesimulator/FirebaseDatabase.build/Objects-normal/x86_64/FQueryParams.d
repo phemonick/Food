@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FQueryParams.m \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FQueryParams.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FValidation.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FPath.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDataEventType.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FParsedUrl.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoInfo.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FTypedefs.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Constants/FConstants.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/FIndex.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/FPriorityIndex.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FUtilities.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/Filter/FNodeFilter.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/Filter/FIndexedFilter.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/Filter/FLimitedFilter.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/FRangedFilter.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FNode.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FTypedefs_Private.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FSnapshotUtilities.h

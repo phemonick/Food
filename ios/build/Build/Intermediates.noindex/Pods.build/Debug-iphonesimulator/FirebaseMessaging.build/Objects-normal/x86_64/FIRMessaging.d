@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessaging.m \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/Public/FIRMessaging.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessaging_Private.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingAnalytics.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseAnalyticsInterop/FIRAnalyticsInterop.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingClient.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingConstants.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingContextManagerService.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDataMessageManager.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDefines.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingLogger.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMMessageCode.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingPubSub.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingReceiver.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRemoteNotificationsProxy.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRmqManager.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingSyncMessageManager.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingUtilities.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingVersionUtilities.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIRAppInternal.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIRErrors.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIRErrorCode.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIRComponent.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIRComponentContainer.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIRComponentType.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIRComponentRegistrant.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIRCoreConfigurable.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIRDependency.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FirebaseInstanceID.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FIRInstanceID.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/GoogleUtilities/GULReachabilityChecker.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/NSError+FIRMessaging.h

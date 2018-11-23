@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/Filter/FLimitedFilter.m \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/Filter/FLimitedFilter.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/Filter/FNodeFilter.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/Filter/FChildChangeAccumulator.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/FIndex.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/FRangedFilter.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FQueryParams.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/FNamedNode.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FNode.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FPath.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FTypedefs_Private.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FEmptyNode.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FChildrenNode.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FTypedefs.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/third_party/FImmutableSortedDictionary/FImmutableSortedDictionary/FImmutableSortedDictionary.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/Filter/FCompleteChildSource.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FChange.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabaseReference.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabaseQuery.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDataEventType.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDataSnapshot.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabase.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRMutableData.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRTransactionResult.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRServerValue.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FIndexedNode.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/third_party/FImmutableSortedDictionary/FImmutableSortedDictionary/FTreeSortedDictionary.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDatabase/Firebase/Database/third_party/FImmutableSortedDictionary/FImmutableSortedDictionary/FLLRBNode.h

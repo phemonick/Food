@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDynamicLinks.m \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/Public/FIRDynamicLinks.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/Public/FIRDynamicLink.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/Public/FIRDynamicLinksCommon.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseAnalyticsInterop/FIRAnalyticsInterop.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIRAppInternal.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIRErrors.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIRErrorCode.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIRComponent.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIRComponentContainer.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIRComponentType.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIRComponentRegistrant.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIRCoreConfigurable.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIRDependency.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIROptionsInternal.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/Headers/Private/FirebaseCore/FIROptions.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDLScionLogging.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDLRetrievalProcessFactory.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDLRetrievalProcessProtocols.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDLRetrievalProcessResult.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDynamicLink+Private.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDynamicLinkNetworking.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDynamicLinks+FirstParty.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/FIRDynamicLinks+Private.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/Logging/FDLLogging.h \
+  /Users/adekunleoluwafemi/Desktop/projects/mobile-starter/ios/Pods/FirebaseDynamicLinks/Firebase/DynamicLinks/Utilities/FDLUtilities.h
